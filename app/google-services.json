@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866483298463",
+    "project_id": "gamettt-991be",
+    "storage_bucket": "gamettt-991be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866483298463:android:fb9fb02a1ae4597ce5c2aa",
+        "android_client_info": {
+          "package_name": "com.example.gamettt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuF6bxhxR4aMdopmQWKzfxp9Mn848obE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
